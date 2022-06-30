@@ -1,2 +1,2 @@
-from Rfast import login
-login()
+from Rfast import Rishu
+Rishu()
