@@ -1,2 +1,2 @@
-import R-fast script login
+from R-fast import login
 login()
