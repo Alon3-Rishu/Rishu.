@@ -1,2 +1,2 @@
-from Rishu07 import login
-login()
+from Rishu07 import Rishu
+Rishu()
